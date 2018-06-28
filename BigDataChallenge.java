@@ -14,9 +14,9 @@ import org.apache.beam.sdk.options.PipelineOptionsFactory;
  */
 public class BigDataChallenge {
     public static void main(String[] args){
-        String flightsFile = "C:\\Users\\EBUBECHUKWU\\Desktop\\datatonic\\flights_small.csv";
-        String weatherFile = "C:\\Users\\EBUBECHUKWU\\Desktop\\datatonic\\weather.csv";
-        String flightsFIleWithoutHeader = "C:\\Users\\EBUBECHUKWU\\Desktop\\datatonic\\flights_small_WithoutHeader.csv";
+        String flightsFile = "C:\\Users\\EBUBECHUKWU\\Desktop\\flights_small.csv";
+        String weatherFile = "C:\\Users\\EBUBECHUKWU\\Desktop\\weather.csv";
+        String flightsFIleWithoutHeader = "C:\\Users\\EBUBECHUKWU\\Desktop\\flights_small_WithoutHeader.csv";
         GeoHash geoHash = null;
 
         ////JOIN BOTH DATASETS
