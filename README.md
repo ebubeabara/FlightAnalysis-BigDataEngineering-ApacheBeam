@@ -12,15 +12,9 @@
 3.1. Total flights
 3.2. Total flights per day
 
-FILES:
-1. Flights-large file: https://storage.googleapis.com/datatonic-data-challenge/data/flights_large.csv
-2. Flights-medium file: https://storage.googleapis.com/datatonic-data-challenge/data/flights_medium.csv
-3. Flights-small file: https://storage.googleapis.com/datatonic-data-challenge/data/flights_small.csv
-4. Weather file: https://storage.googleapis.com/datatonic-data-challenge/data/weather.csv
-
 NOTE:
-Code task in Java.
-Reduce the dataset sizes to run on local machine (using a DirectRunner in Beam)
+Coded task in Java.
+Reduced the dataset sizes to run on local machine (using a DirectRunner in Beam)
 
 RESOURCES:
 1. https://beam.apache.org/get-started/beam-overview/
